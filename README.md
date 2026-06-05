@@ -85,6 +85,7 @@ streamlit run app.py
 - Classes: Good, Standard, Poor
 - Reported accuracy: 79.05%
 - Reported F1 score: 79.03%
+- ROC-AUC score: 91.03%
 - Trees: 200
 
 ## Notes
